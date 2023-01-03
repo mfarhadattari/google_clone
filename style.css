@@ -39,3 +39,9 @@ button{
     border: 1px solid #e7e7e7;
     border-radius: 5px;
 }
+.google_bd{
+    text-align: center;
+    font-size: 16px;
+    color: #6b6b6a;
+    height: 180px;
+}
