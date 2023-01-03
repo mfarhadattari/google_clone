@@ -7,9 +7,24 @@
     margin: 10px;
 }
 
-
 .menu{
     height: 20px;
     width: 20px;
     margin-left: 20px;
+}
+
+
+.google_logo{
+    text-align: center;
+    margin: 20px;
+}
+
+.search{
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
 }
